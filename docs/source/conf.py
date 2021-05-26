@@ -18,7 +18,6 @@
 # -- Project information -----------------------------------------------------
 
 project = 'OmegaMath'
-copyright = '2021, John Bampton'
 author = 'John Bampton'
 
 
