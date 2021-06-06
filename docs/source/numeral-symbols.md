@@ -1,4 +1,4 @@
-# 🔢 Numeral Systems
+# 🪙 Numeral Systems
 
 Before the invention of writing, humans spent a good deal of time developing the first attempts
 of civilization by settling in convenient places, selected because of water sources, good soils for

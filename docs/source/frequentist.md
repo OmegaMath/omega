@@ -1,13 +1,17 @@
-# Frequentist versus Bayesian statistics
+# 🆚 Frequentist versus Bayesian statistics
 
 For the nineteenth century the main entertainment of the members who represented high society, were games of chance. Among them was an expert gambler named Antonie Gombaud, known as the Knight of Meré, and he approached Blais Pascal (a French philosopher and writer born in 1623) to pose two problems that were on his mind, regarding gambling.
 
 Both Pascal and Pierre Fermat were maintaining a great and fluid correspondence around both problems. Thanks to the solutions found by these great characters in history, the foundations were laid on game theory and the calculation of probabilities. From there came a myriad of applications that are used today.
-![pascal](_static/images/frequentist/pascal.png) ![fermat](_static/images/frequentist/fermat.png)
+
+![pascal](_static/images/frequentist/pascal.png)
+
+![fermat](_static/images/frequentist/fermat.png)
 
 Without knowing it, between the two of them they had created a very powerful tool of interpretation, organization and information for making optimal decisions and from that moment on, the expectations of rolling the dice again have never been the same. Finally, through the beginning of probability, the outcome of the bets could be predicted with a greater degree of accuracy and thus be able to get more out of them.
 
 ![dice](_static/images/frequentist/dice.png)
+
 For example, if we have two dice, one white and one black, what are the probabilities of obtaining the result of the sum of the points of both dice?
 
 ![dice2](_static/images/frequentist/dice2.jpg)
