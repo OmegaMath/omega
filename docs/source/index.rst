@@ -10,8 +10,10 @@ Welcome to OmegaMath's documentation!
    :caption: Mathematics
    :maxdepth: 2
 
+   bayes.md
    gauss-jordan.md
    fermat.md
+   frequentist.md
    fibonacci.md
    numeral-symbols.md
 
