@@ -39,9 +39,9 @@ Pythagorean Theorem, that famous formula that relates the length of the
 hypotenuse with that of the legs in a right triangle and where Fermat's Theorem
 is applied for n = 2.
 
-![Right Trianle](_static/images/fermat/right-triangle.png)
+![Right Triangle](_static/images/fermat/right-triangle.png)
 
-It is no secret to anyone that this equality is al reves, is equaly true for all
+It is no secret to anyone that this equality is al reves, is equally true for all
 possible combinations and different numbers. But if we go further and ask
 ourselves what happens when n = 3? Will there be a numerical combination that by
 raising two numbers to the cube to the third power and adding them, we will
