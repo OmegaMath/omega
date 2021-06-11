@@ -31,7 +31,7 @@ Python's arithmetic operators are:
 
 Addition (+), Subtraction (-), Multiplication (*), Division (/), Integer division (//); Module or remainder (%) and Empowerment (**).
 
-Once you have your work environment fully installed on your PC, you are ready to solve basic problems; otherwise, you should go to the official Python site to download its latest version: https://www.python.org
+Once you have your work environment fully installed on your PC, you are ready to solve basic problems; otherwise, you should go to the official Python site to download its latest version: <https://www.python.org>
 
 Here are some basic routines for young people who want to venture into PYTHON:
 
