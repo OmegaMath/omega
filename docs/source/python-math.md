@@ -1,4 +1,4 @@
-# PYTHON AND MATH
+# 🖥️ 🔢 PYTHON AND MATH
 
 Throughout contemporary history and since the birth of technology as we know it, it has provided education with innovative tools, which has made it possible to significantly improve teaching processes. Despite the fact that some mathematicians were antagonistic to the use of programming languages, because according to them "the pure essence of mathematics is lost"; In the last 20 years, the mathematical society has proven the great help that the use of computational tools supposes for its work. In addition to this, the use of programming languages such as Python has proven to be beneficial when carrying out specific applications in areas of science such as Physics, Chemistry or Biology; since, the capabilities of Python allow to perfectly model mathematical behaviors in the aforementioned sciences.
 
