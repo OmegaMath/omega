@@ -20,6 +20,7 @@ But how much math do I need to know to learn programming? This disturbing questi
 - Master the decimal, binary and hexadecimal numbering systems.
 
 You will only need to know mathematics to develop specific programs that do deserve it, but it would be more focused on the program than on the fact of programming itself.
+
 Now, to solve a problem in any programming language, you must know the following:
 
 - What does the problem ask of me?
@@ -27,6 +28,7 @@ Now, to solve a problem in any programming language, you must know the following
 - Perform the Pseudocode
 
 Python has the module mechanism where the MATH module is located, which contains a good number of hyperbolic, trigonometric and logarithmic functions for real numbers, rounding, truncation and constants, among others and the CMATH module allows you to work with complex numbers.
+
 Python's arithmetic operators are:
 
 Addition (+), Subtraction (-), Multiplication (*), Division (/), Integer division (//); Module or remainder (%) and Empowerment (**).
@@ -52,7 +54,7 @@ number of the fruits, in the basket return the number of the mango fruits in the
     fruit_distribution("2 apples and 3 oranges", 100) -> 100 - 2 + 3 = 95
     fruit_distribution("100 apples and 1 oranges",120) -> 120 - 100 + 1 = 19
     """
-   
+
  apples_and_oranges = []
     number_mango_fruits = 0
     for j in s.split():
