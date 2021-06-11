@@ -16,6 +16,7 @@ Welcome to OmegaMath's documentation!
    frequentist.md
    fibonacci.md
    numeral-symbols.md
+   python-math.md
 
 Indices and tables
 ==================
